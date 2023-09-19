@@ -1,0 +1,96 @@
+{
+  "Clientes": [
+    {
+      "id": 1,
+      "nombre": "Santi",
+      "email": "santi02@gmail.com",
+      "password": "123465"
+    },
+    {
+      "id": 2,
+      "nombre": "Brigithe",
+      "email": "Brigithe2@gmail.com",
+      "password": "1234986"
+    },
+    {
+      "id": 3,
+      "nombre": "David",
+      "email": "David02@2gmail.com",
+      "password": "12345677"
+    },
+    {
+      "id": 4,
+      "nombre": "Kevin",
+      "email": "kev02@2gmail.com",
+      "password": "123477"
+    },
+    {
+      "id": 5,
+      "nombre": "Danna Velandia",
+      "email": "Danna@gmail.com",
+      "password": "200652"
+    },
+    {
+      "nombre": "danna hernandez",
+      "email": "dan@gmail.com",
+      "direccion": "cll 53 sur # 37 ",
+      "id": 6
+    },
+    {
+      "nombre": "carlos",
+      "email": "ca@gmail.com",
+      "password": "5632956",
+      "id": 7
+    }
+  ],
+  "productos": [
+    {
+      "nombre": "bocadillo",
+      "valor": "2300",
+      "id": 1
+    },
+    {
+      "nombre": "Galletas Noel",
+      "valor": "2689",
+      "id": 2
+    }
+  ],
+  "pedidos": [
+    {
+      "id": 1,
+      "nombre": "Danna",
+      "email": "dannis@gmail.com",
+      "cantidad": 3,
+      "direccion": "Cll 53 sur  37 a 85",
+      "barrio": "Fatima",
+      "telefono": "3256987420"
+    },
+    {
+      "nombre": "lucia",
+      "email": "Luciana@gmail.com",
+      "cantidad": "2",
+      "direccion": "clle 56 sur ",
+      "barrio": "fatima",
+      "telefono": "3203652147",
+      "id": 2
+    },
+    {
+      "nombre": "David",
+      "email": "davicho@gmail.com",
+      "cantidad": "2",
+      "direccion": "Cll 56 sur # 89",
+      "barrio": "Bosa",
+      "telefono": "9856321473",
+      "id": 3
+    },
+    {
+      "nombre": "Andres",
+      "email": "andres@gmail.com",
+      "cantidad": "5",
+      "direccion": "cll 56 sur ",
+      "barrio": "Venecia",
+      "telefono": "3208228558",
+      "id": 4
+    }
+  ]
+}
