@@ -48,7 +48,7 @@ return (
   <div className="register-box">
     <div className="register-logo">
       <Link to={"#"}>
-        <b>Agregar Compra</b>
+        <b>Agregar Producto</b>
       </Link>
     </div>
     <div className="card">

@@ -41,6 +41,12 @@
       "email": "ca@gmail.com",
       "password": "5632956",
       "id": 7
+    },
+    {
+      "nombre": "danna",
+      "email": "danna@gmail.com",
+      "password": "258963",
+      "id": 8
     }
   ],
   "productos": [
@@ -91,6 +97,24 @@
       "barrio": "Venecia",
       "telefono": "3208228558",
       "id": 4
+    },
+    {
+      "nombre": "juliana",
+      "email": "juliana@gmail.com",
+      "cantidad": "2",
+      "direccion": "cll 56 sur ",
+      "barrio": "fatima",
+      "telefono": "320325698741",
+      "id": 5
+    },
+    {
+      "nombre": "narly",
+      "email": "narly@gmail.com",
+      "cantidad": "3",
+      "direccion": "clle 56 sur # 36 a 85",
+      "barrio": "fatima",
+      "telefono": "32013654789",
+      "id": 6
     }
   ]
 }

@@ -54,7 +54,7 @@ const Home2 = () => {
                   Arequipe
                 </h3>
                 <p className="text-muted text-center">$8,000</p>
-                <Link to={"#"} className="btn btn-block" style={{backgroundColor:"DarkBlue" , color:'white'}}>
+                <Link to={"/agregarcompra"} className="btn btn-block" style={{backgroundColor:"DarkBlue" , color:'white'}}>
                   <b>Comprar</b>
                 </Link>
               </div>
@@ -78,7 +78,7 @@ const Home2 = () => {
                   Sparkies
                 </h3>
                 <p className="text-muted text-center">$5,000</p>
-                <Link to={"#"} className="btn btn-block" style={{backgroundColor:"DarkBlue" , color:'white'}}>
+                <Link to={"/agregarcompra"} className="btn btn-block" style={{backgroundColor:"DarkBlue" , color:'white'}}>
                   <b>Comprar</b>
                 </Link>
               </div>
@@ -102,7 +102,7 @@ const Home2 = () => {
                   Chocorramo
                 </h3>
                 <p className="text-muted text-center">$9,500</p>
-                <Link to={"#"} className="btn btn-block" style={{backgroundColor:"DarkBlue" , color:'white'}}>
+                <Link to={"/agregarcompra"} className="btn btn-block" style={{backgroundColor:"DarkBlue" , color:'white'}}>
                   <b>Comprar</b>
                 </Link>
               </div>
@@ -126,7 +126,7 @@ const Home2 = () => {
                   Frunas
                 </h3>
                 <p className="text-muted text-center">$6,000</p>
-                <Link to={"#"} className="btn btn-block" style={{backgroundColor:"DarkBlue" , color:'white'}}>
+                <Link to={"/agregarcompra"} className="btn btn-block" style={{backgroundColor:"DarkBlue" , color:'white'}}>
                   <b>Comprar</b>
                 </Link>
               </div>
@@ -151,7 +151,7 @@ const Home2 = () => {
                   Bon Bon Bum x 24
                 </h3>
                 <p className="text-muted text-center">$5,000</p>
-                <Link to={"#"} className="btn btn-block" style={{backgroundColor:"DarkBlue" , color:'white'}}>
+                <Link to={"/agregarcompra"} className="btn btn-block" style={{backgroundColor:"DarkBlue" , color:'white'}}>
                   <b>Comprar</b>
                 </Link>
               </div>
